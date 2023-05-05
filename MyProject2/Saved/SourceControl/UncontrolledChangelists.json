@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/ProjectVR/MyProject2/Content/Level/Test_map.umap",
-				"D:/ProjectVR/MyProject2/Content/Level/BP_leapKiri.uasset",
 				"D:/GameProject/Unreal Projects/MyProject2/Content/Level/Test_map.umap",
 				"D:/GameProject/Unreal Projects/MyProject2/Content/Level/BP_leap.uasset",
 				"D:/GameProject/Unreal Projects/MyProject2/Content/Level/BP_cube.uasset",
@@ -28,6 +26,13 @@
 				"C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Content/Level/BP_leap.uasset",
 				"C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Content/Level/BP_player.uasset",
 				"C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Content/Level/BP_knobKompor.uasset",
+				"C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Content/VRTemplate/Audio/Fire01.uasset",
+				"C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Content/Level/BP_egg.uasset",
+				"C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Content/Level/BP_Yolk.uasset",
+				"C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Content/Level/NewFunctionLibrary.uasset",
+				"C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Content/Level/BP_piring.uasset",
+				"D:/ProjectVR/MyProject2/Content/Level/Test_map.umap",
+				"D:/ProjectVR/MyProject2/Content/Level/BP_leapKiri.uasset",
 				"C:/Users/HP-Omen/Documents/UE_5.1/Engine/Plugins/Marketplace/UltraleapTracking/Content/Style/Levels/MainBackgroundScene.umap",
 				"D:/GameProject/Unreal Projects/MyProject2/Content/Level/NewFolder/BP_board.uasset",
 				"D:/GameProject/Unreal Projects/MyProject2/Content/Level/Level.umap"
