@@ -1,0 +1,15 @@
+2023/06/14-10:02:36.135 54a8 Reusing MANIFEST C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/14-10:02:36.136 54a8 Recovering log #4
+2023/06/14-10:02:36.136 54a8 Reusing old log C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/06/14-10:35:15.109 fbc Level-0 table #8: started
+2023/06/14-10:35:15.119 fbc Level-0 table #8: 190 bytes OK
+2023/06/14-10:35:15.121 fbc Delete type=0 #4
+2023/06/14-10:35:15.121 fbc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/14-10:35:15.121 fbc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2023/06/14-10:35:15.121 fbc Compacting 1@1 + 1@2 files
+2023/06/14-10:35:15.131 fbc Generated table #9@1: 18 keys, 534 bytes
+2023/06/14-10:35:15.131 fbc Compacted 1@1 + 1@2 files => 534 bytes
+2023/06/14-10:35:15.133 fbc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/14-10:35:15.133 fbc Delete type=2 #5
+2023/06/14-10:35:15.133 fbc Delete type=2 #8
+2023/06/14-10:35:15.134 fbc Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2023/06/14-10:02:15.798 519c Creating DB C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/06/14-10:02:15.809 519c Reusing MANIFEST C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/14-10:02:19.499 519c Level-0 table #5: started
+2023/06/14-10:02:19.506 519c Level-0 table #5: 1167 bytes OK
+2023/06/14-10:02:19.508 519c Delete type=0 #3
+2023/06/14-10:02:19.508 519c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
