@@ -1,6 +1,8 @@
-2023/06/14-10:02:15.798 519c Creating DB C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/06/14-10:02:15.809 519c Reusing MANIFEST C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/14-10:02:19.499 519c Level-0 table #5: started
-2023/06/14-10:02:19.506 519c Level-0 table #5: 1167 bytes OK
-2023/06/14-10:02:19.508 519c Delete type=0 #3
-2023/06/14-10:02:19.508 519c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/23-08:02:40.480 3b1c Reusing MANIFEST C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/23-08:02:40.481 3b1c Recovering log #7
+2023/06/23-08:02:40.481 3b1c Reusing old log C:/Users/OMEN/Documents/GitHub/ProjectVR/MyProject2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2023/06/23-08:03:00.856 b44 Level-0 table #12: started
+2023/06/23-08:03:00.856 b44 Level-0 table #12: 0 bytes OK
+2023/06/23-08:03:00.858 b44 Delete type=0 #7
+2023/06/23-08:03:00.864 b44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/06/23-08:03:00.864 b44 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
